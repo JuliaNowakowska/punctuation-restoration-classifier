@@ -19,4 +19,4 @@ Following table shows the results achieved by various pre-trained LLMs trained f
 | XLM-RoBERTa base    | 37.22  | 67.47 |61.54     | 49.39         | 58.55 |
 | XLM-RoBERTa large   | 44.84  | 71.47 |65.43     | 63.46         | 65.84 |
 
-As a baseline model, I referred to the solution outlined in the paper: http://poleval.pl/files/poleval2021.pdf#page=21
+As a baseline model, I referred to the solution outlined in the paper: http://poleval.pl/files/poleval2021.pdf#page=33
