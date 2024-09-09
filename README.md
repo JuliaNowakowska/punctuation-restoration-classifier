@@ -1,4 +1,4 @@
-## Punctuation restoration classifier
+# Punctuation restoration classifier
 Large language models can be effectively used in classification tasks, either directly - in few-shot setups, or indirectly - by generating pseudo labels that are then used to train custom models. An example of architecture that utilizes the latter approach is a pre-trained language model combined with a single linear, classification layer on top.
 It can be used for punctuation restoration task as a model that predicts punctuation mark class to be inserted after each word of the input sentence.
 
